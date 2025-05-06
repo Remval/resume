@@ -1,5 +1,6 @@
 import { Container, Typography, Grid, Paper, Box } from '@mui/material';
 
+
 export default function Resume() {
   return (
     <Container maxWidth="md" sx={{ py: 4 }}>
@@ -28,7 +29,7 @@ export default function Resume() {
           <Grid container spacing={2}>
             <Grid item xs={12}>
               <Typography variant="subtitle1" fontWeight="bold">
-                Frontend Developer — IT-компанія “TechSoft”
+                Frontend Developer — IT-компанія &quot;TechSoft&quot;
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 2023 — 2025
