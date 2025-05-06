@@ -1,5 +1,9 @@
-import { Container, Typography, Grid, Paper, Box } from '@mui/material';
 
+import Typography from '@mui/material/Typography';
+import Container from '@mui/material/Container';
+import Grid from '@mui/material/Grid';
+import Paper from '@mui/material/Paper';
+import Box from '@mui/material/Box';
 
 export default function Resume() {
   return (
