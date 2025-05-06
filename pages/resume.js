@@ -44,7 +44,9 @@ export default function Resume() {
           <Typography variant="h5" gutterBottom>
             Освіта
           </Typography>
-          <Typography>Національний університет "Києво-Могилянська академія", Бакалавр з комп’ютерних наук (2021 — 2025)</Typography>
+          <Typography>
+            Національний університет "Києво-Могилянська академія", Бакалавр з комп’ютерних наук (2021 — 2025)
+            </Typography>
         </Box>
 
         <Box mt={4}>
